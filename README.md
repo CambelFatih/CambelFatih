@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a fullstack developer and always keep up with the latest technologies and trends.<br> I also enjoy researching and constantly strive to improve my applications. <br>I aim to continuously learn and develop myself, with the goal of providing the best service to my clients.<br> In other words, I focus on completing my projects to the best of my ability and satisfying my clients.
+I am a full-stack developer and always keep up with the latest technologies and trends.<br> I also enjoy researching and constantly strive to improve my applications. <br>I aim to continuously learn and develop myself, with the goal of providing the best service to my clients.<br> In other words, I focus on completing my projects to the best of my ability and satisfying my clients.
 
 
 ## 🌐 Socials:
