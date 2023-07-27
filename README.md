@@ -2,7 +2,7 @@
 I am a full-stack developer and always keep up with the latest technologies and trends.<br> I also enjoy researching and constantly strive to improve my applications. <br>I aim to continuously learn and develop myself, with the goal of providing the best service to my clients.<br> In other words, I focus on completing my projects to the best of my ability and satisfying my clients.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatihfurkancambel/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/fatih_cambel) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=plastic-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@fatihcambel)
 
 
