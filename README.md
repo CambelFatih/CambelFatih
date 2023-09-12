@@ -13,4 +13,3 @@
 ![CambelFatih's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CambelFatih&theme=default&show_icons=true&hide_border=true&layout=compact)
 
 
-[![](https://visitcount.itsvg.in/api?id=CambelFatih&icon=0&color=0)](https://visitcount.itsvg.in)
