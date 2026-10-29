@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatihfurkancambel/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/fatih_cambel)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@fatihcambel)
-[![Blog](https://img.shields.io/badge/Blog-Kuyza-blue)](https://cambelfatih.github.io/blog/)
+[![Blog](https://img.shields.io/badge/Blog-blue)](https://cambelfatih.github.io/blog/)
 
 ---
 
